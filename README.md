@@ -2,7 +2,8 @@
 
 Aplicativo para criar várias listas para serem usadas simultaneamente e sincronizadas na nuvem após os dados serem salvos localmente (**Offline-first**).
 
-![image](app.png)
+![app](https://user-images.githubusercontent.com/92872087/218286675-68623a97-502d-4d79-9ac0-81b4aea863fa.png)
+
 
 # 1. Funcionalidades
 
@@ -53,9 +54,4 @@ Informações de mockup, fonte e assets estão disponíveis no Figma.
 
 # 3. Arquitetura
 
-[Geral](ARCHITECTURE.md)
-
-
-# 4. Vídeos
-
-[#1. Iniciando os projetos](https://youtu.be/Y9QwJewv50w)
+[ARCHITECTURE.md](https://github.com/rafayzirocha/listinha/files/10715016/ARCHITECTURE.md)
